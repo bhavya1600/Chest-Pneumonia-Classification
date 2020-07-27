@@ -1,5 +1,5 @@
-<h1 align="center"><b> Chest Pneumonia Classification </b></h1>
-<h3 align="center"><b> Chest X-Ray image classification using Convolutional Neural Networks (CNNs) in Tensorflow </b></h1>
+<h1 align="center"><b> Chest Pneumonia Classification and Prediction </b></h1>
+<h3 align="center"><b> Chest X-Ray image classification and prediction using Convolutional Neural Networks (CNNs) in Tensorflow </b></h1>
 
 <p align="center"><img width=55% src="Media/Lung_CNN.png"></p>
 
