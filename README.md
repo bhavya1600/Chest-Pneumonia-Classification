@@ -1,7 +1,7 @@
 <h1 align="center"><b> Chest Pneumonia Classification </b></h1>
 <h3 align="center"><b> Chest X-Ray image classification using Convolutional Neural Networks (CNNs) in Tensorflow </b></h1>
 
-<p align="center"><img width=55% src="Media/Lung_CNN.jpg"></p>
+<p align="center"><img width=55% src="Media/Lung_CNN.png"></p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -127,5 +127,5 @@ Step 3 : Run all the blocks of Code
 
 ## Results 
 
-<p align="center"><img width=55% src="Media/Results.jpg"></p>
+<p align="center"><img width=55% src="Media/Result.jpg"></p>
 
